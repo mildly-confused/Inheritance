@@ -1,6 +1,6 @@
 package Inheritance;
 /*
-* Title of Class: 
+* Title of Class: VendingMachine
 * Author's Name: Milda Kuciauskas
 * Purpose: 
 *
@@ -9,8 +9,8 @@ package Inheritance;
 */
 
 public class VendingMachine {
-    public static double drinkPrice = 1.50;
-    public static double candyPrice = 0.75;
-    public static double chipPrice = 1.00;
+    public static double drinkPrice = 3.50;
+    public static double candyPrice = 1.75;
+    public static double chipPrice = 2.00;
 
 }

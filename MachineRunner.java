@@ -26,7 +26,7 @@ public static void main (String args[]) {
     Machine3.choice = input.next();
     System.out.println("Your choice is " + Machine3.choice + ".");
    Machine3.getTypeChoice(choice);
-    CheckPrice(budget, choice);
+    CheckPrice checker1 = new CheckPrice(budget, choice);
 
 }
 }
