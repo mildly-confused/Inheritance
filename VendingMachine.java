@@ -2,9 +2,8 @@ package Inheritance;
 /*
 * Title of Class: VendingMachine
 * Author's Name: Milda Kuciauskas
-* Purpose: 
 *
-* Resources:
+* Resources: none
 * 
 */
 

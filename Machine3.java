@@ -2,8 +2,6 @@ package Inheritance;
 /*
 * Title of Class: Machine3
 * Author's Name: Milda Kuciauskas
-* Purpose: 
-*
 * Resources:
 https://www.w3schools.com/c/c_conditions_elseif.php
 * 

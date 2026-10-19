@@ -47,7 +47,7 @@ public class CheckPrice extends Machine3{
                 System.out.println("Insufficient funds.");
             }
         }
-     else if (Machine3.type.equals("candy")) { //check statements?????
+     else if (Machine3.type.equals("candy")) { 
              if (bud >= VendingMachine.chipPrice + Integer.parseInt(cho.substring(1,2))) {
                     System.out.println("You have sufficient funds. Vend? Type Y or N");
                     if (I1.next().equals("N")) { 
