@@ -25,6 +25,8 @@ public static void main (String args[]) {
     System.out.println("Which snack would you like? The columns range from A-C and the rows range from 1-4. Please input your selection in a format with a capital letter and then your number selection.");
     Machine3.choice = input.next();
     System.out.println("Your choice is " + Machine3.choice + ".");
-    //CheckPrice.InBudget();
+   Machine3.getTypeChoice(choice);
+    CheckPrice(budget, choice);
+
 }
 }

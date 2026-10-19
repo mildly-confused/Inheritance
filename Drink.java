@@ -9,5 +9,7 @@ package Inheritance;
 */
 
 public class Drink extends Inventory {
+    public int dprice;
+    
 
 }
